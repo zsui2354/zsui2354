@@ -8,9 +8,9 @@
 
 
 
-### My blog : <a>site.vyantaosheweining.top</a>
+### My blog : <a href="http://site.vyantaosheweining.top/">site.vyantaosheweining.top</a>
 ### Contact email : h2118820285@outlook.com
-### X | Twitter : @aidegongjue1
+### X | Twitter : <a href="https://x.com/aidegongjue1/">@aidegongjue1</a>
 ### ✈️ Telegram : @Ajue5555
 
 #
@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=00FFFF)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=00FFFF)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00FFFF)
+
 
 ```
    .-') _  .-')                                                         
