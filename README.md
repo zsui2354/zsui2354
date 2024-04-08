@@ -35,10 +35,12 @@
 ```
 ---
 
-<a href="">
+<div align="center">
+  <a href="">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zsui2354&theme=radical">
 </a>
 
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsui2354&layout=compact">
 </a>
+</div>
