@@ -39,6 +39,10 @@
 `--------'`-----'  `-----'    `--'  `-------'`----'' `----''     `--'   
 ```
 ---
+
+
+<div align="center" style="display:flex;">
+
   <a href="">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zsui2354&theme=radical">
 </a><br/>
@@ -47,10 +51,10 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zsui2354&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical">
 </a><br/>
 
-<div align="center" style="display:flex;">
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsui2354&layout=compact&langs_count=8">
 </a>
+
 </div><br/>
 
 
