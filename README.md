@@ -7,11 +7,58 @@
 - 📫 Don't tell anyone~ ...
 
 
-### About me：<a href="https://zsui2354.github.io/static_blog/page/About.html">Link</a>
-### My blog : <a href="https://zsui2354.github.io/">https://zsui2354.github.io/</a>
-### Contact email : h2118820285@outlook.com
-### X | Twitter : <a href="https://x.com/aidegongjue1/">@aidegongjue1</a>
-### ✈️ Telegram : @Ajue5555
+
+<div style="width:100vw; ">
+<table style="width: 100%; border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr>
+      <th style="padding: 8px; border-bottom: 2px solid #ccc;">关于</th>
+      <th style="padding: 8px; border-bottom: 2px solid #ccc;">链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">About me</td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        <a href="https://zsui2354.github.io/static_blog/page/About.html" target="_blank"><strong>Link</strong></a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">My blog</td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        <a href="https://zsui2354.github.io/" target="_blank"><strong>https://zsui2354.github.io/</strong></a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">Contact email</td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        <a href="mailto:h2118820285@outlook.com"><strong>h2118820285@outlook.com</strong></a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">X &amp; Twitter</td>
+      <td style="padding: 8px; border-bottom: 1px solid #eee;">
+        <a href="https://x.com/aidegongjue1/" target="_blank"><strong>@aidegongjue1</strong></a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Telegram</td>
+      <td style="padding: 8px;">
+        <strong>@Ajue5555</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
 
 #
 
@@ -41,22 +88,29 @@
 ---
 
 
+
+
+
 <div align="center" style="display:flex;">
+  <br/>
 
-  <a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zsui2354&theme=radical">
-</a><br/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsui2354\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
-  <a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zsui2354&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical">
-</a><br/>
+  <p>
+    <a href="">
+      <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsui2354&layout=compact&langs_count=8">
+    </a>
+  </p>
+</div>
 
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsui2354&layout=compact&langs_count=8">
-</a>
 
-</div><br/>
+<br/>
 
+<div>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=zsui2354" />
+  </p>
+</div>
 
 
 
