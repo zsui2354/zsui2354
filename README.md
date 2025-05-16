@@ -6,6 +6,15 @@
 - 💞️ Open source for 5 minutes, brain-burning for two hours ...
 - 📫 Don't tell anyone~ ...
 
+[![Skills](https://skillicons.dev/icons?i=cpp,c,python,java,spring,maven,vue,flutter,html,js,css,sass,jquery,idea,vscode,visualstudio,postman,git,github,androidstudio,githubactions,nginx,cloudflare,linux,docker,md,mysql,redis,ps,pr)](https://skillicons.dev)
+
+<table>
+  <tr>
+    <td>已经有</td>
+    <td><img src="https://profile-counter.glitch.me/zsui2354/count.svg" /></td>
+    <td>位访客，浏览过</td>
+  </tr>
+</table>
 
 
 <div style="width:100vw; ">
@@ -111,6 +120,15 @@
     <img src="https://github-profile-trophy.vercel.app/?username=zsui2354" />
   </p>
 </div>
+
+
+
+
+
+
+
+
+
 
 
 
